@@ -9,6 +9,7 @@ import utils.Driver;
 public class RandomSteps {
 
     //EXAMPLE FROM CLASS
+    //JUST HOW TO USE FAKER
 
     @Test
     public void getRandomGoogleSearch(){
