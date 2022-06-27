@@ -1,4 +1,3 @@
-utils\AlertHandler.class
 steps\CarvanaSteps.class
 utils\DropdownHandler.class
 runners\Runner.class
@@ -6,6 +5,7 @@ utils\Driver.class
 pages\CarvanaHomePage.class
 utils\ConfigReader.class
 steps\BaseSteps.class
-steps\Hooks.class
 utils\ActionsUtil.class
+utils\AlertHandler.class
+steps\Hooks.class
 utils\Waiter.class
